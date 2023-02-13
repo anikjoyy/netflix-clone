@@ -10,7 +10,7 @@ module.exports = {
         dry: '#0B0F29',
         star: '#FFB000',
         text: '#C0C0C0',
-        borser: '4B5563',
+        border: '4B5563',
         dryGray: 'E0D5D5',
       },
       height: {
